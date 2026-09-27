@@ -10,7 +10,8 @@
 
 以下のリンクから、無料のExcel計算シートをダウンロードできます。
 
-**[公的年金等に係る雑所得_excel.xlsx](./公的年金等に係る雑所得_excel.xlsx)**
+**[公的年金等に係る雑所得_excel.xlsx](https://github.com/pukkunk/public-pension-income-excel/raw/refs/heads/main/%E5%85%AC%E7%9A%84%E5%B9%B4%E9%87%91%E7%AD%89%E3%81%AB%E4%BF%82%E3%82%8B%E9%9B%91%E6%89%80%E5%BE%97_excel.xlsx)**
+
 
 ## 概要
 
